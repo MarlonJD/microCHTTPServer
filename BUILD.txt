@@ -1,0 +1,1 @@
+gcc test.c -L. -llibmicrohttpd-12 -lws2_32
